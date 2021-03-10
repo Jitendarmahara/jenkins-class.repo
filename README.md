@@ -1,1 +1,4 @@
-# jenkins-class.repo
+echo "helo ho are you"
+date
+cal
+echo "bye"
